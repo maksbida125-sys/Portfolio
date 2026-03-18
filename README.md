@@ -38,4 +38,4 @@ curl
 
 AWS CLI needed, used 2.15.2
 
-Use Node 16.20.2
+Use Node 16.20.2f
